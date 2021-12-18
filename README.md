@@ -20,5 +20,3 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdyBotzz&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ArdyBotzz&repo=BaseBot&theme=dark)
 # Tata
-# Tata
-# Tata
